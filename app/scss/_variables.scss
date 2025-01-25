@@ -1,0 +1,17 @@
+// Colors
+$white: hsl(0, 0%, 100%);
+$slateBlue: hsl(234, 25%, 52%);
+$midnightNavy: hsl(233, 54%, 16%);
+$coolGray: hsl(232, 10%, 56%);
+$pinkCoral: hsl(341, 92%, 62%);
+$pastelPink: hsl(341, 100%, 83%);
+$sunset-bloom: linear-gradient(
+  180deg,
+  hsl(13, 100%, 64%) 0.04%,
+  hsl(322, 87%, 55%) 100%
+);
+$electric-orchid: linear-gradient(
+  180deg,
+  hsl(237, 100%, 64%) 0%,
+  hsl(322, 87%, 55%) 99.92%
+);
